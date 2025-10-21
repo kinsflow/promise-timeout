@@ -1,5 +1,5 @@
 {
-  "name": "promise-timeout",
+  "name": "promise-timeout-kinsflow",
   "version": "1.0.1",
   "description": "A simple timeout with AbortController for promises",
   "license": "ISC",
@@ -16,12 +16,12 @@
     "typescript": "^5.0.0",
     "@types/node": "^20.0.0"
   },
-  "homepage": "https://github.com/yourusername/repo-name#readme",
+  "homepage": "https://github.com/kinsflow/promise-timeout#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kinsflow/promise-timeout.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/repo-name/issues"
+    "url": "https://github.com/kinsflow/promise-timeout/issues"
   }
 }

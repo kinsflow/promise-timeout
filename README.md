@@ -129,5 +129,9 @@ class MyCustomError extends TimeoutError {
 
 ## License
 
-MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or need help, feel free to reach out to me at kingsley.davidakindele@gmail.com.
 

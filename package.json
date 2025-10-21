@@ -1,6 +1,6 @@
 {
   "name": "promise-timeout-kinsflow",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple timeout with AbortController for promises",
   "license": "ISC",
   "author": "",

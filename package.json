@@ -1,0 +1,27 @@
+{
+  "name": "promise-timeout",
+  "version": "1.0.0",
+  "description": "A simple timeout with AbortController for promises",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "homepage": "https://github.com/yourusername/repo-name#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinsflow/promise-timeout.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/repo-name/issues"
+  }
+}
